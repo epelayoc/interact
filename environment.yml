@@ -1,0 +1,16 @@
+name: epc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - voila
+  - numpy
+  - jupyterlab-git
+  - pandas
+  - requests
+  - lxml
+  - ipywidgets
+  - bqplot
+  - openpyxl
